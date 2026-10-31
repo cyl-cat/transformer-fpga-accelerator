@@ -1,0 +1,46 @@
+# Generated FPGA/Vivado artifacts
+**/.Xil/
+**/.cache/
+**/*.runs/
+**/*.sim/
+**/xsim.dir/
+**/ip_user_files/
+**/cache/
+**/results/
+**/output/
+**/*.jou
+**/*.log
+**/*.pb
+**/*.wdb
+**/*.dcp
+**/*.bit
+**/*.ltx
+**/*.sdb
+**/*.wdf
+**/*.rst
+**/*.db
+**/*.wpc
+**/*.lpr
+
+# Test data and generated binary files
+**/data/
+**/*.bin
+**/*.mem
+**/*.mif
+
+# Local/research materials and large presentation media
+**/*.pdf
+**/*.mp4
+**/*.pptx
+**/*.png
+
+# Archived/duplicate Vivado competition project; current thesis RTL is under rtl/
+/脉动阵列设计/2ndNationTPU/
+
+# Editor and operating system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+*.swp
+*.swo
+*.bak
